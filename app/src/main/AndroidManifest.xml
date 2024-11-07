@@ -7,7 +7,7 @@
         android:dataExtractionRules="@xml/data_extraction_rules"
         android:fullBackupContent="@xml/backup_rules"
         android:icon="@drawable/fast_food"
-        android:label="@string/app_name"
+        android:label="@string/snacksfly"
         android:supportsRtl="true"
         android:theme="@style/Theme.SnackOrdering"
         tools:targetApi="31">
